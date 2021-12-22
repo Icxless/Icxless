@@ -14,7 +14,5 @@ Welcome to my GitHub profile!
 - Learning C#
 
 #### 📈 Stats
-- 🎂 My account is **{{ ACCOUNT_AGE }}** years old
-- ⌨️ I commited something **{{ COMMITS }}** times in **{{ REPOSITORIES_CONTRIBUTED_TO }}** repositories
-- 🐛 **{{ ISSUES }}** issues were opened by me
-- 🔗 **{{ PULL_REQUESTS }}** pull requests were submitted by me
+![Icxless Stats](https://github-readme-stats.vercel.app/api?username=icxless&show_icons=true&theme=dark)
+
