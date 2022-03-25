@@ -12,8 +12,6 @@ Welcome to my GitHub profile!
 
 #### 🔨 Projects
 - Learning C#
-- Learning HTML
-- Learning CSS
 - Learning JS
 
 #### 📈 Stats
