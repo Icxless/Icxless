@@ -3,10 +3,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=icxless&icon=8&color=6)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on [frontendmentor exercises](https://github.com/Icxless/frontendmentor-exercises).
-
-- 🌱 I’m currently learning **CSS and Javascript**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discordapp.com/users/316621300615479296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Icxless#3348" height="30" width="40" /></a>
